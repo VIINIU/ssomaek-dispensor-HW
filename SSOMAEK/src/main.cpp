@@ -1,5 +1,5 @@
 #include <Arduino.h>
-// #include <MFRC522.h>
+#include <MFRC522.h>
 
 void setup() {
 
